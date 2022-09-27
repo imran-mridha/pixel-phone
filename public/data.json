@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "price": 720.5,
+    "img": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-6-pro-1.jpg",
+    "name": "Google Pixel 6 Pro",
+    "quantity": 0
+  },
+  {
+    "id": "2",
+    "price": 529.99,
+    "img": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-6-1.jpg",
+    "name": "Google Pixel 6",
+    "quantity": 0
+  },
+  {
+    "id": "3",
+    "price": 429.99,
+    "img": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-5a-5g-00.jpg",
+    "name": "Google Pixel 5a 5G",
+    "quantity": 0
+  },
+  {
+    "id": "4",
+    "price": 399.99,
+    "img": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-5-5g-1.jpg",
+    "name": "Google Pixel 5",
+    "quantity": 0
+  },
+  {
+    "id": "5",
+    "price": 493.99,
+    "img": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-4a-5g-1.jpg",
+    "name": "Google Pixel 4a 5G",
+    "quantity": 0
+  },
+  {
+    "id": "6",
+    "price": 343.99,
+    "img": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-4-xl-1.jpg",
+    "name": "Google Pixel 4 XL",
+    "quantity": 0
+  },
+  {
+    "id": "7",
+    "price": 240.5,
+    "img": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-4-1.jpg",
+    "name": "Google Pixel 4",
+    "quantity": 0
+  },
+  {
+    "id": "8",
+    "price": 135.5,
+    "img": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-3a-xl-1.jpg",
+    "name": "Google Pixel 3a XL",
+    "quantity": 0
+  },
+  {
+    "id": "9",
+    "price": 135.99,
+    "img": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-3a-1.jpg",
+    "name": "Google Pixel 3a",
+    "quantity": 0
+  },
+  {
+    "id": "10",
+    "price": 150.5,
+    "img": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-04.jpg",
+    "name": "Google Pixel",
+    "quantity": 0
+  }
+]

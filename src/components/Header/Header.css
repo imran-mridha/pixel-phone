@@ -1,0 +1,5 @@
+.indicator :where(.indicator-item) {
+  right: -10px;
+  left: auto;
+  top: -4px;
+}
